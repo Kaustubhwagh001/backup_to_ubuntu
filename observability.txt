@@ -1,0 +1,16 @@
+application golang (hit rate/error/latency)
+baremetal server(cpr /ram/disks) metrics cpu
+domain host
+matrix(mimir)
+logs(loki)
+traces(tempo)
++++++++++++++++++++++++++++++++++++++++++
+cortex | mimir      ++++ yaml language for iaas
+opentelemetry| elasticsearch|apm server elastisearch
+apm-applicatin performance monitoring	| rum -real user monitorng
+crd-custom  reserach defination
+++++++++++++++++++++++++++++++++++++++++++++
+DB
+mongodb|redis|mysql
+promql(prometheus query language)
+logsQA

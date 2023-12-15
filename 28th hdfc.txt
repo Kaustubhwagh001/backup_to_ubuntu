@@ -1,0 +1,25 @@
+1) UAT /hdfc/ single api for multiple channels
+waf policies /google load balancer/ APIGEE / transactional/otp/promotional/ DLT interface - distributed ledger/ 2000 tps/smtp/smmp
+submission to maintain transaction requests and id,and more stuff 
+e.164 msidn
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+tour of go
+how to certify go exam qp creation
+go to telegram and display time on telegarm at real time taking currrent time and posting it to telegram grp/channel
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+observability ->telegram 
+excel- large no of numbers and find out the graphs
+find out possible alerting mechanisms...
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+base architectue of jio cx
+observability
+AUTOMATION FOR MATRIX faults
+
+
+
+
+
+
+  
